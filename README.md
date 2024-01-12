@@ -3,4 +3,4 @@
 
 ![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml)
 
-![GitHub language count](https://img.shields.io/github/languages/count/badges/shields)
+![GitHub language count](https://img.shields.io/github/languages/count/vaaast-lake/youtube_k)
